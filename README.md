@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> :D
   <p>
     <a align="center" href="" target="https://supervision.roboflow.com">
       <img
